@@ -11,7 +11,7 @@ export const exercises: Exercise[] = [
     description: "Maîtrise les fondamentaux du dribble avec les deux mains",
     difficulty: "Débutant",
     duration: "10 min",
-    videoUrl: "https://www.youtube.com/embed/5gUxi07FNB8",
+    videoUrl: "https://www.youtube.com/embed/MRrNi7uHmaY",
     imageUrl: drillBasic,
     instructions: [
       "Commence en position athlétique, genoux légèrement fléchis",
@@ -32,7 +32,7 @@ export const exercises: Exercise[] = [
     description: "Apprends le mouvement de crossover pour changer de direction",
     difficulty: "Intermédiaire",
     duration: "15 min",
-    videoUrl: "https://www.youtube.com/embed/DplS6aXVp_8",
+    videoUrl: "https://www.youtube.com/embed/rgBYwuK3I2k",
     imageUrl: drillCrossover,
     instructions: [
       "Commence en dribblant avec ta main droite",
@@ -54,7 +54,7 @@ export const exercises: Exercise[] = [
     description: "Technique avancée pour passer le ballon entre tes jambes",
     difficulty: "Intermédiaire",
     duration: "15 min",
-    videoUrl: "https://www.youtube.com/embed/3Oa-IaBEL_8",
+    videoUrl: "https://www.youtube.com/embed/juEjjdGdVU4",
     imageUrl: drillBetweenLegs,
     instructions: [
       "Commence en position de pas chassé, jambe droite devant",
@@ -76,7 +76,7 @@ export const exercises: Exercise[] = [
     description: "Maîtrise le dribble dans le dos pour surprendre les défenseurs",
     difficulty: "Avancé",
     duration: "20 min",
-    videoUrl: "https://www.youtube.com/embed/YBTdD40uUUs",
+    videoUrl: "https://www.youtube.com/embed/Ze9QKvjZxYQ",
     imageUrl: drillBehindBack,
     instructions: [
       "Commence en dribblant avec ta main droite sur le côté",
